@@ -21,4 +21,5 @@ for(ll i=1;i<n;i++){
 	}
 }
 cout<<ans<<endl;
+	return 0;
 }
